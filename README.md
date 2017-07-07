@@ -1,4 +1,5 @@
 # Video App using React
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 
 If you fork it, kindly use your own YoutTube API key which you can get freely from the Google Developer's Console
 
